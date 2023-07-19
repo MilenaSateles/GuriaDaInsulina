@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Inika', serif;
+    margin: 0;
+    padding: 0;
+}
+
+:root{
+    --cor-primaria: #FFF7E5;
+    --cor-sec: #D39789;
+    --cor-terc: #A3695C;
+    --cor-fonte-principal: #402617;
+    --cor-fonte-sec: #A27267;
+    --cor-fonte-terc: #65524E;
+    --cor-fonte-qua: #FFFFFF;
+}
