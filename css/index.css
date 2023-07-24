@@ -15,8 +15,10 @@ header{
     background-color: var(--cor-primaria);
     padding: 22px 320px;
 }
+
 nav{
     text-align: right;
+    display: inline-flex;
 }
 
 a{

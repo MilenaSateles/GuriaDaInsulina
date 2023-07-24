@@ -3,7 +3,4 @@ h1{
     font-size: 50px;
     font-weight: 400;
     color: var(--cor-fonte-principal);
-    width: 630px;
-    padding-left: 382px;
-    padding-right: 970px;
 }

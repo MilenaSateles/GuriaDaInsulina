@@ -1,4 +1,4 @@
-#button{
+.button{
     background-color: var(--cor-fonte-qua);
     box-shadow: 0 2px 1.5px var(--cor-fonte-terc);
     color: var(--cor-fonte-terc);
@@ -8,4 +8,9 @@
     padding-left: 86px;
     padding-right: 86px;
     font-size: 32px;
+    border-radius: 12px;
+}
+
+.button:hover{
+    transform: scale(1.05);
 }
