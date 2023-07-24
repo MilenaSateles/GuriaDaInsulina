@@ -30,37 +30,3 @@ a{
     margin-right: 61px;
 }
 
-.banner{
-    background-repeat: no-repeat;
-    background-size: 100%;
-    height: 800px; 
-}
-
-.banner .wrapper{
-    display: flex;
-    flex-direction: column;
-    width: 280px;
-    
-}
-
-h1{
-    font-family: 'Inika', serif;
-    font-size: 50px;
-    font-weight: 400;
-    color: var(--cor-fonte-principal);
-    width: 630px;
-    padding-left: 382px;
-    padding-right: 970px;
-}
-
-#button{
-    background-color: var(--cor-fonte-qua);
-    box-shadow: 0 2px 1.5px var(--cor-fonte-terc);
-    color: var(--cor-fonte-terc);
-    display: inline-block;
-    height: 80px;
-    line-height: 80px;
-    padding-left: 86px;
-    padding-right: 86px;
-    font-size: 32px;
-}
