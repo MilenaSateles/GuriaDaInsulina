@@ -1,0 +1,18 @@
+.wrapper-expertise{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1249px;
+    height: 592.04px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.wrapper-expertise .expertise-area{
+    margin-bottom: 90px;
+}
+
+.wrapper-expertise .expertise-area :nth-child(even){
+    text-align: left;
+    margin-left: 32px;
+}
+
