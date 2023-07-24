@@ -1,0 +1,13 @@
+.main-title{
+    font-family: 'Inika', serif;
+    font-size: 50px;
+    font-weight: 400;
+    color: var(--cor-fonte-principal);
+}
+
+
+.main-title .-second {
+    font-family: 'Allura', cursive;
+    font-size: 63.2px;
+    font-weight: 400;
+}

@@ -1,0 +1,11 @@
+.section{
+    background: var(--cor-qua);
+    padding-top: 47px;
+    
+}
+
+h2 {
+    font-family: 'Allura', cursive;
+    font-size: 63.2px;
+    font-weight: 400;
+}

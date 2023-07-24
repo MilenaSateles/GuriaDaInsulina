@@ -1,0 +1,18 @@
+.expertise-area{
+    display: inline-flex;
+    font-family: 'Inika', serif;
+    font-size: 24px;
+    color: var(--cor-fonte-principal);
+    align-items: center;
+}
+
+.expertise-area .title{
+    text-align: right;
+    margin-right: 32px;
+    width: 400px;
+}
+
+.expertise-area .icon{
+    width: 135.464px;
+    height: 136.04px;
+}
