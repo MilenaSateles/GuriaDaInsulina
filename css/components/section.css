@@ -1,7 +1,7 @@
 .section{
     background: linear-gradient(89deg, #F3E0DB 0%, #F7EDE9 19.44%, #FBF7F5 30.02%, rgba(251, 247, 245, 0.74) 39.58%, rgba(251, 247, 245, 0.87) 51.86%, rgba(251, 247, 245, 0.92) 63.18%, #FBF7F5 72.01%, #F7EDE9 81.35%, #F3E0DB 100%);
     padding-top: 30px; 
-    width: 1920px;
+    width: 100%;
     height: 880px;
 }
 

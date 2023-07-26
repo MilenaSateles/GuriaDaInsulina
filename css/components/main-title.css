@@ -5,11 +5,3 @@
     color: var(--cor-fonte-principal);
 }
 
-
-.main-title .-second {
-    font-family: 'Allura', cursive;
-    font-size: 63.2px;
-    font-weight: 400;
-    margin-left: auto;
-    margin-right: auto;
-}

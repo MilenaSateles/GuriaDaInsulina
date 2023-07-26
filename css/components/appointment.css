@@ -1,0 +1,24 @@
+.appointment{
+    box-sizing: border-box;
+    background-image: url(../../img/background.png) ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 962px; 
+    padding-left: 320px;
+    padding-top: 180px;
+}
+
+.appointment .title{
+    text-align: left;
+    margin-bottom: 39px;
+    font-family: 'Inika', serif;
+    font-size: 31.04px;
+    font-weight: 400;
+    color: var(--cor-fonte-principal);
+}
+
+.appointment span{
+    font-family: 'Allura', cursive;
+    font-size: 63.2px;
+    color: var(--cor-fonte-principal);
+}
