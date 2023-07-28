@@ -1,0 +1,13 @@
+.wrapper-profile{
+    display: flex;
+    max-width: 1249px;
+    height: 592.04px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.wrapper-profile .sobre{
+    align-items: right;
+    justify-content: right;
+    max-width: 733px;;
+}

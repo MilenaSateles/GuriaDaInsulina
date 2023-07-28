@@ -1,24 +1,15 @@
-.appointment .main-title{
-    text-align: left;
-    margin-bottom: 39px;
-    font-family: 'Inika', serif;
-    font-size: 31.04px;
-    color: var(--cor-fonte-principal);
-}
-
-.appointment-item .title {
-    margin-right: 32px;
-    margin-bottom: 10px;
+h4{
     width: 805px;
     font-family: 'KoHo', sans-serif;
     font-size: 28.712px;
     color: #A27267;
+    margin: 0;
 }
 
-.appointment-item .subtitle{
-    margin-right: 32px;
+p{
     width: 1077px;
     font-family: 'Inika', serif;
     font-size: 24px;
     color: var(--cor-fonte-principal);
+    margin: 12px;
 }
